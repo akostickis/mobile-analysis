@@ -1,0 +1,424 @@
+[
+  {
+    "id": "1",
+    "name": "Vinternatt AB",
+    "userGroups": [
+      {
+        "id": "1",
+        "name": "Ovriga",
+        "nonNrRelatedCosts": {
+          "periodicCost": "12574,00",
+          "oneOfCost": "392,00",
+          "callCost": "456,40",
+          "credit": "-231,80"
+        },
+        "users": [
+          {
+            "id": "1",
+            "name": "Test1",
+            "telNo": "46729718659",
+            "periodicCost": "379,00",
+            "oneOffCost": "0,00",
+            "callCost": "15,00",
+            "credit": "0,00",
+            "calls": [
+              {
+                "id": "1",
+                "date": "2015-03-11",
+                "duration": "34"
+              },
+              {
+                "id": "2",
+                "date": "2015-06-15",
+                "duration": "56"
+              },
+              {
+                "id": "3",
+                "date": "2015-11-02",
+                "duration": "42"
+              },
+              {
+                "id": "4",
+                "date": "2015-11-08",
+                "duration": "89"
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "name": "Test2",
+            "telNo": "45222386728",
+            "periodicCost": "289,00",
+            "oneOffCost": "50,00",
+            "callCost": "20,00",
+            "credit": "15,00",
+            "calls": [
+              {
+                "id": "5",
+                "date": "2015-03-09",
+                "duration": "123"
+              },
+              {
+                "id": "6",
+                "date": "2015-07-30",
+                "duration": "321"
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "name": "Test3",
+            "telNo": "47440866114",
+            "periodicCost": "379,00",
+            "oneOffCost": "0,00",
+            "callCost": "122,00",
+            "credit": "0,00",
+            "calls": [
+              {
+                "id": "7",
+                "date": "2015-01-24",
+                "duration": "23"
+              },
+              {
+                "id": "8",
+                "date": "2015-09-05",
+                "duration": "15"
+              },
+              {
+                "id": "9",
+                "date": "2015-11-09",
+                "duration": "98"
+              },
+              {
+                "id": "10",
+                "date": "2015-11-19",
+                "duration": "147"
+              },
+              {
+                "id": "11",
+                "date": "2015-12-03",
+                "duration": "53"
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "name": "Test4",
+            "telNo": "12743056084",
+            "periodicCost": "590,00",
+            "oneOffCost": "130,00",
+            "callCost": "20,00",
+            "credit": "30,00",
+            "calls": [
+              {
+                "id": "12",
+                "date": "2015-04-17",
+                "duration": "231"
+              },
+              {
+                "id": "13",
+                "date": "2015-04-25",
+                "duration": "158"
+              },
+              {
+                "id": "14",
+                "date": "2015-05-02",
+                "duration": "12"
+              },
+              {
+                "id": "15",
+                "date": "2015-06-29",
+                "duration": "56"
+              },
+              {
+                "id": "16",
+                "date": "2015-07-28",
+                "duration": "47"
+              },
+              {
+                "id": "17",
+                "date": "2015-11-19",
+                "duration": "122"
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "name": "Test5",
+            "telNo": "84705575896",
+            "periodicCost": "379,00",
+            "oneOffCost": "14,00",
+            "callCost": "123,00",
+            "credit": "0,00",
+            "calls": [
+              {
+                "id": "18",
+                "date": "2015-03-21",
+                "duration": "12"
+              },
+              {
+                "id": "19",
+                "date": "2015-09-10",
+                "duration": "34"
+              },
+              {
+                "id": "20",
+                "date": "2015-10-26",
+                "duration": "57"
+              },
+              {
+                "id": "21",
+                "date": "2015-11-27",
+                "duration": "32"
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "name": "Test6",
+            "telNo": "43393458696",
+            "periodicCost": "379,00",
+            "oneOffCost": "48,00",
+            "callCost": "523,00",
+            "credit": "11,00",
+            "calls": [
+              {
+                "id": "22",
+                "date": "2015-04-03",
+                "duration": "54"
+              },
+              {
+                "id": "23",
+                "date": "2015-05-01",
+                "duration": "67"
+              },
+              {
+                "id": "24",
+                "date": "2015-08-16",
+                "duration": "32"
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "name": "Test7",
+            "telNo": "37922582284",
+            "periodicCost": "129,00",
+            "oneOffCost": "0,00",
+            "callCost": "0,00",
+            "credit": "0,00",
+            "calls": [
+              {
+                "id": "25",
+                "date": "2015-06-11",
+                "duration": "67"
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "name": "Test8",
+            "telNo": "42794892144",
+            "periodicCost": "319,00",
+            "oneOffCost": "0,00",
+            "callCost": "45,00",
+            "credit": "123,00",
+            "calls": [
+              {
+                "id": "26",
+                "date": "2015-08-09",
+                "duration": "64"
+              },
+              {
+                "id": "27",
+                "date": "2015-10-03",
+                "duration": "376"
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "name": "Test9",
+            "telNo": "68929997914",
+            "periodicCost": "379,00",
+            "oneOffCost": "0,00",
+            "callCost": "0,00",
+            "credit": "80,00",
+            "calls": [
+              {
+                "id": "28",
+                "date": "2015-01-12",
+                "duration": "56"
+              },
+              {
+                "id": "29",
+                "date": "2015-01-13",
+                "duration": "78"
+              },
+              {
+                "id": "30",
+                "date": "2015-06-21",
+                "duration": "47"
+              },
+              {
+                "id": "31",
+                "date": "2015-08-22",
+                "duration": "83"
+              },
+              {
+                "id": "32",
+                "date": "2015-09-10",
+                "duration": "173"
+              },
+              {
+                "id": "33",
+                "date": "2015-10-06",
+                "duration": "84"
+              },
+              {
+                "id": "34",
+                "date": "2015-12-12",
+                "duration": "37"
+              }
+            ]
+          },
+          {
+            "id": "10",
+            "name": "Test10",
+            "telNo": "58585176884",
+            "periodicCost": "741,00",
+            "oneOffCost": "147,00",
+            "callCost": "124,00",
+            "credit": "0,00",
+            "calls": [
+              {
+                "id": "35",
+                "date": "2015-03-14",
+                "duration": "743"
+              },
+              {
+                "id": "36",
+                "date": "2015-03-22",
+                "duration": "563"
+              },
+              {
+                "id": "37",
+                "date": "2015-07-04",
+                "duration": "26"
+              },
+              {
+                "id": "38",
+                "date": "2015-09-27",
+                "duration": "63"
+              },
+              {
+                "id": "39",
+                "date": "2015-12-19",
+                "duration": "167"
+              }
+            ]
+          },
+          {
+            "id": "11",
+            "name": "Test11",
+            "telNo": "49483621495",
+            "periodicCost": "479,00",
+            "oneOffCost": "145,60",
+            "callCost": "180,00",
+            "credit": "0,00",
+            "calls": [
+              {
+                "id": "40",
+                "date": "2015-02-06",
+                "duration": "12"
+              },
+              {
+                "id": "41",
+                "date": "2015-04-14",
+                "duration": "43"
+              },
+              {
+                "id": "42",
+                "date": "2015-04-16",
+                "duration": "56"
+              },
+              {
+                "id": "43",
+                "date": "2015-05-16",
+                "duration": "74"
+              },
+              {
+                "id": "44",
+                "date": "2015-05-27",
+                "duration": "76"
+              },
+              {
+                "id": "45",
+                "date": "2015-06-23",
+                "duration": "32"
+              },
+              {
+                "id": "46",
+                "date": "2015-07-10",
+                "duration": "76"
+              },
+              {
+                "id": "47",
+                "date": "2015-07-24",
+                "duration": "93"
+              },
+              {
+                "id": "48",
+                "date": "2015-10-11",
+                "duration": "145"
+              },
+              {
+                "id": "49",
+                "date": "2015-11-30",
+                "duration": "74"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Some random Swedish name",
+        "nonNrRelatedCosts": {
+          "periodicCost": "5542,00",
+          "oneOfCost": "192,00",
+          "callCost": "136,80",
+          "credit": "-123,70"
+        },
+        "users": [
+          {
+            "id": "12",
+            "name": "Supreme user",
+            "telNo": "46659123470",
+            "periodicCost": "85,00",
+            "oneOffCost": "0,00",
+            "callCost": "6,00",
+            "credit": "0,00",
+            "calls": [
+              {
+                "id": "50",
+                "date": "2015-02-13",
+                "duration": "78"
+              },
+              {
+                "id": "51",
+                "date": "2015-06-28",
+                "duration": "98"
+              },
+              {
+                "id": "52",
+                "date": "2015-10-05",
+                "duration": "36"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
